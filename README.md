@@ -18,7 +18,7 @@ NTU CSX 5001 進階軟體開發專題
     
     台大公衛系三年級 [*李柏霆]()
     
-    台大資管系碩士班二年級 [郭欣宜](https://github.com/kuosheena2/CSX)
+    :thumbsup:台大資管系碩士班二年級 [郭欣宜](https://github.com/kuosheena2/CSX)
     
     台大機械系系控組碩士班二年級 [楊鈞凱](https://github.com/YangChunKai/NTUCSX2018)
     
