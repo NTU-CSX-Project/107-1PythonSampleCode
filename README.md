@@ -26,5 +26,5 @@ NTU CSX 5001 進階軟體開發專題
     
     :thumbsup:台大經濟系四年級 [洪振倫](https://github.com/kevinkevin556/STASD)
     
-    臺灣大學聯盟臺師大國文系 [吳玟萱](https://github.com/chloe8599/demo)
+    :thumbsup:臺灣大學聯盟臺師大國文系 [吳玟萱](https://github.com/chloe8599/NTU-CSX-Project)
     
