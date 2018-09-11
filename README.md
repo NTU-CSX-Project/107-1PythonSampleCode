@@ -12,7 +12,7 @@ NTU CSX 5001 進階軟體開發專題
     
     台大機械系系控組碩士班一年級 [陳俊翰](https://github.com/Hank421Chen/STASD)
     
-    台大機械系系控組碩士班一年級 [*李東霖]()
+    :thumbsup:台大機械系系控組碩士班一年級 [李東霖](https://github.com/snowflakedong/107-1_Python_Project)
     
     台大工管系企管組四年級 [羅友良](https://github.com/yuliang1120/91app)
     
