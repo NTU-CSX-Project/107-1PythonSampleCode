@@ -1,5 +1,9 @@
 ## Python_進階軟體開發專題
 
+### [課程投影片](https://docs.google.com/presentation/d/e/2PACX-1vQNPNIqQkWhCllEQQJLEbKxv4PkiXkyQ_iVBicfz10xApt2LgFAWbLwzfYCUuPyJs9kQsghahCWdh44/pub?start=false&loop=false&delayms=3000)
+
+### [GitBook參考資料](https://pecu.gitbooks.io/python_/content/week4.html)
+
 ### week_4
 
 - week_4任務      
