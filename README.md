@@ -3,7 +3,6 @@ NTU CSX 5001 進階軟體開發專題
 
 - [課程大綱](https://csx.aca.ntu.edu.tw/1071CSX5001_)
 
-- [資料科學程式設計GitBook](https://pecu.gitbooks.io/python_/content/)
 - [資料科學程式設計GitHub](https://github.com/NTU-CSX-Project/107-1PythonSampleCode/)
 
 - 修課名單：
