@@ -1,6 +1,16 @@
 # 107-1PythonSampleCode
 NTU CSX 5001 進階軟體開發專題
 
+### 每周任務進度
+
+- [week1 課程進行方式與評分說明](https://github.com/NTU-CSX-Project/107-1PythonSampleCode/tree/master/week_1)
+
+- [week2 網路爬蟲與資料合併](https://github.com/NTU-CSX-Project/107-1PythonSampleCode/tree/master/week_2)
+
+- [week3 資料視覺化](https://github.com/NTU-CSX-Project/107-1PythonSampleCode/tree/master/week_3)
+
+- [week4 文字詞頻統計](https://github.com/NTU-CSX-Project/107-1PythonSampleCode/tree/master/week_4)
+
 - [課程大綱](https://csx.aca.ntu.edu.tw/1071CSX5001_)
 
 - [資料科學程式設計GitHub](https://github.com/NTU-CSX-Project/107-1PythonSampleCode/)
