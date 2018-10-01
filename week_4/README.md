@@ -4,6 +4,8 @@
 
 ### [GitBook參考資料](https://pecu.gitbooks.io/python_/content/week4.html)
 
+### [TEJ會計財報數字分析範例程式](https://github.com/NTU-CSX-Project/Python-TEJ-Data-Processing-National-Central-University-Accounting-)
+
 ### week_4
 
 - week_4任務      
