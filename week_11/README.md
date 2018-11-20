@@ -2,6 +2,8 @@
 
 ### [課程投影片](https://ppt.cc/fJbfRx)
 
+### [allData.pkl](https://drive.google.com/file/d/1RPncsqowISLTQkbcGNwB_x1ZHy6o3Q08/view?usp=sharing)
+
 ## Data Details
 1. 已進行前處理過後的臉書資料：allData.pkl
 2. 關聯式分析結果：Apriori.html
