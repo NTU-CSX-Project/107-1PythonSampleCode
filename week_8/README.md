@@ -2,6 +2,8 @@
 
 ### [課程投影片](https://ppt.cc/fjoJ2x)
 
+### [An Interactive Tutorial on Numerical Optimization](http://www.benfrederickson.com/numerical-optimization/)
+
 # Titanic :boat: :scream_cat: :rose: 
 
 ## Intro
