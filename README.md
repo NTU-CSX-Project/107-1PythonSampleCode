@@ -1,6 +1,8 @@
 # 107-1PythonSampleCode
 NTU CSX 5001 進階軟體開發專題
 
+[期末報告說明](https://ppt.cc/fuR1Dx)
+
 ### 每周任務進度
 
 - [week1 課程進行方式與評分說明](https://github.com/NTU-CSX-Project/107-1PythonSampleCode/tree/master/week_1)
