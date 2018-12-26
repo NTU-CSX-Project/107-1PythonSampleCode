@@ -1,7 +1,7 @@
 # 107-1PythonSampleCode
 NTU CSX 5001 進階軟體開發專題
 
-[期末報告說明](https://ppt.cc/fuR1Dx)
+[期末報告說明](https://docs.google.com/presentation/d/e/2PACX-1vRrcroZnfw-GpdrVFbloyaDF03FXYZD69xqe9hs1SjvVFuFCiZzWNjDrTM1_5-jkizicBxc0ZkK2R8t/pub?start=false&loop=false&delayms=3000)
 
 ### 每周任務進度
 
